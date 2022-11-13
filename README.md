@@ -1,2 +1,1 @@
-# LeetCode
-Harshal's Leetcode repo
+Harshal's Leetcode practise code.
