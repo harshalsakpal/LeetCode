@@ -1,3 +1,6 @@
+/*
+ * https://leetcode.com/problems/remove-vowels-from-a-string/
+ */
 class Solution {
     String[] vowels = {"a", "e", "i", "o", "u"};
 
